@@ -1,7 +1,9 @@
-The quiz application starts with a text input where the user's name can be written.
-The quiz app tests the knowledge by showing a specific flag and making the user guess the country it belongs to.
+MyQuizApp tests the user's knowledge by showing a specific flag and making the user guess the country it belongs to.
+The application starts with a text input where the user's name can be written.
+There are 16 questions that wait to be answered and any one can be skipped, if needed.
+Every question is consisted of 4 possible answers (the name of 4 counties) where only one is the correct.
+The user can select an answer and may change it until the Sumbit button is pressed.
 The correct answer is immediately shown on a green frame and the wrong one (if any) on a red one.
-Any one of the 16 questions can be skipped, if needed.
 In conclusion, the final result of how many correct answers are is shown and the user can get challenged again.
 
 ![1](https://user-images.githubusercontent.com/109162046/194757770-da8198e6-aabe-49c7-84eb-e7567dddebd8.PNG)
