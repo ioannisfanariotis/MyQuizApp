@@ -1,4 +1,5 @@
 MyQuizApp tests the user's knowledge by showing a specific flag and making the user guess the country it belongs to.
+There are 16 questions, each one contains 4 possible answers and in conclusion the result is shown.
 
 ![1](https://user-images.githubusercontent.com/109162046/194757770-da8198e6-aabe-49c7-84eb-e7567dddebd8.PNG)
 ![2](https://user-images.githubusercontent.com/109162046/194757772-a6654a7a-626a-4434-9a11-ed570deed774.PNG)
